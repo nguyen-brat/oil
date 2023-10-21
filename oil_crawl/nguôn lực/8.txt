@@ -1,0 +1,15 @@
+KHAI THÁC CÁC CÔNG TRÌNH KHÍ
+Có 3 giàn nén khí được điều khiển và kiểm soát bằng chương trình PLC...
+Có 3 giàn nén khí được điều khiển và kiểm soát bằng chương trình PLC, với tổng công suất lên đến 10.1 triệu m3/ngày đêm, áp suất nén tối đa đạt 125 bar :
+Giàn nén khí trung tâm (CCP) ;
+Giàn nén khí mỏ Rồng (DGCP) ;
+Giàn nén khí nhỏ (CGCP) ;
+Waukesha gas engine
+Solar gas turbine
+Nouvo pignone piston compressor
+Dresser-rand centrifugal compressor
+Solar centrifugal compressor
+Howden booster compressor
+Caterpillar diesel engine
+Các loại bơm và thiết bị phục vụ cho công nghệ xử lý khí
+Các thiết bị làm khô khí bằng công nghệ TEG

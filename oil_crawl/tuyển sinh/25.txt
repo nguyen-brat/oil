@@ -1,0 +1,20 @@
+Điều 5. Cách tính chi phí bồi hoàn và thời gian chi trả chi phí bồi hoàn
+5.1. Bồi hoàn toàn bộ chi phí Vietsovpetro đã chi trả nếu sinh viên vi phạm một trong
+các Điều: 4.1.1; 4.1.2; 4.1.3; 4.1.4; 4.1.5 của Hợp đồng này.
+5.2. Bồi hoàn chi phí tương ứng với thời gian chưa phục vụ đủ theo cam kết nếu vi
+phạm Điều 4.1.6 của Hợp đồng này. Số tiền bồi hoàn được tính theo công thức sau:
+S=F/T1 x (T1-T2)
+Trong đó:
+- S: Là số tiền phải bồi hoàn (Được tính bằng tiền đồng Việt Nam, trên cơ sở quy
+đổi số tiền mà Vietsovpetro đã chi bằng ngoại tệ để đào tạo sinh viên theo tỷ giá
+được ngân hàng Nhà nước Việt Nam công bố tại thời điểm ra quyết định thu hồi
+chi phí phải bồi hoàn)
+- F: Là tất cả các chi phí Vietsovpetro đã chi trả cho sinh viên;
+- T1: Là thời gian làm việc nghĩa vụ quy định tại Điều 2.1.3 của Hợp đồng này
+(được tính bằng số tháng làm tròn);
+- T2: Là thời gian đã làm việc cho Vietsovpetro sau khi được tuyển dụng (được
+tính bằng số tháng làm tròn)
+5.3. Các bồi thường khác nếu có: Theo quy định của pháp luật.
+5.4. Chậm nhất trong thời hạn 60 (sáu mươi) ngày, kể từ ngày nhận được Quyết định
+thu hồi chi phí đào tạo của Vietsovpetro, Sinh viên hoặc Gia đình sinh viên có trách
+nhiệm nộp trả đầy đủ khoản tiền phải bồi hoàn.

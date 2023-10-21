@@ -1,0 +1,8 @@
+NGHIÊN CỨU KHOA HỌC VÀ THIẾT KẾ DẦU KHÍ BIỂN
+Phần mềm CMG dùng trong mô hình thủy động lực học khai thác mỏ
+Phần mềm CMG dùng trong mô hình thủy động lực học khai thác mỏ;
+Phần mềm OILTEST, PANSYSTEM dùng trong xử lý số liệu nghiên cứu giếng;
+Phần mềm HYSYS sử dụng trong mô hình công nghệ thu gom xử lý chất lưu;
+Các bộ phận thiết kế được hỗ trợ bởi chương trình tính tải trọng CEASAR, tính kết cấu STAAD III…
+trạm máy tính hiện đại Workstation cho phép xử lý, minh giải và tính toán các số liệu trong lĩnh vực địa chất – địa vật lý;
+Hệ thống phòng thí nghiệm được trang bị các máy móc chuyên dụng với sai số nhỏ nhất và công năng cao nhất.

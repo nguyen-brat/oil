@@ -1,0 +1,10 @@
+CÔNG NGHỆ THÔNG TIN VÀ LIÊN LẠC
+Cơ sở hạ tầng mạng LAN, WAN; Hệ thống máy chủ (Web, Mail, dữ liệu…)
+Cơ sở hạ tầng mạng LAN, WAN;
+Hệ thống máy chủ (Web, Mail, dữ liệu…)
+Hệ thông lưu trữ dữ liệu (SAN, NAS,…)
+Hệ thống bảo mật, Tổng đài điện thoại nội bộ, hệ thống truyền thanh – Thông báo;
+Hệ thống thông tin HF, VHF - Hệ thống thông tin vệ tinh (INMARSAT-C, INMARSATM, VSAT mặt đất...);
+Hệ thống hội họp VoIP, Video - Hệ thống truyền số liệu SCADA
+Truyền số liệu (công trình biển - công trình biển, công trình biển bờ) - Truyền số liệu bằng công nghệ Wimax trên công trình biển;
+hệ thống QLCL ISO 9001: 2000
