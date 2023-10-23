@@ -22,7 +22,6 @@ Trả lời: [/INST]''',
             "lang": "vi"
         }
         resp = requests.post(self.url, headers = self.header, data=json.dumps(info))
-        print(resp)
         data = json.loads(resp.content)
         return data['answer']
 ''' Yeu cau
