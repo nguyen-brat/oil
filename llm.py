@@ -5,7 +5,7 @@ import streamlit as st
 class LlmInference:
     def __init__(
             self,
-            url = "https://bahnar.dscilab.com:20007/llama/api",
+            url,
             header = {"Content-Type": "application/json"},
     ):
         self.url = url
