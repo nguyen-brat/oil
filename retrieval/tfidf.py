@@ -3,6 +3,7 @@ from glob import glob
 import numpy as np
 import pickle
 import os
+import re
 
 class DocIR:
     def __init__(
@@ -16,7 +17,7 @@ class DocIR:
         self.data_content = []
         for data in self.data_paths:
             with open(data, 'r') as f:
-                self.data_content.append(f.read())
+                self.data_content.append(self.clean(f.read()))
         
         if reset:
             all_file_paths = glob(output_path + '/*')
@@ -56,3 +57,13 @@ class DocIR:
             pickle.dump(self.vectorizer, file)
         with open(os.path.join(output_path, 'tfidf_corpus_vector.pkl'), "wb") as file:
             pickle.dump(self.corpus_vectorize, file)
+
+    @staticmethod
+    def clean(text):
+        text = re.sub(r'\n+', r'.', text)
+        text = re.sub(r'\.+', r' . ', text)
+        text = re.sub(r"['\",\?:\-!-]", "", text)
+        text = text.strip()
+        text = " ".join(text.split())
+        text = text.lower()
+        return text

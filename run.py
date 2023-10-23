@@ -14,7 +14,7 @@ class Inference:
     ):
         self.llm = LlmInference(url=url, header=header)
         self.doc_retrieval = DocIR(data_path=data_path, output_path=output_path,reset=reset)
-        self.translator = googletrans.Translator()
+        #self.translator = googletrans.Translator()
 
     def __call__(self, question):
         informations = self.doc_retrieval(query=question)
