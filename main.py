@@ -3,7 +3,7 @@ from run import Inference
 
 
 if __name__ == '__main__':
-    inference = Inference()
+    inference = Inference(url=st.secrets['API_KEY'])
     st.title('Chatbot Demo')
 
     header = st.container()

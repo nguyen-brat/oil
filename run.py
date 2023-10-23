@@ -6,7 +6,7 @@ import streamlit as st
 class Inference:
     def __init__(
             self,
-            url = "https://bahnar.dscilab.com:20007/llama/api",
+            url,
             header = {"Content-Type": "application/json"},
             data_path='oil_crawl/*/*',
             output_path='retrieval/saved',
