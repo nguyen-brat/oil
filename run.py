@@ -17,8 +17,9 @@ class Inference:
         #self.translator = googletrans.Translator()
 
     def __call__(self, question):
-        informations = self.doc_retrieval(query=question, k=10)
-        #joint_information = '\n'.join(informations)
-        answer = self.llm(question=question, contexts=informations)
+        informations_rerank, infomation = self.doc_retrieval(query=question, k=5)
+        joint_information = '\n'.join(informations_rerank[:1])
+        print(joint_information)
+        answer = self.llm(question=question, contexts=joint_information)
         #answer = self.translator.translate(answer ,src='en' ,dest='vi').text
-        return answer, informations[:3]
+        return answer, informations_rerank[:1]
