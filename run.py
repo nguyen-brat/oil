@@ -22,4 +22,4 @@ class Inference:
         print(joint_information)
         answer = self.llm(question=question, contexts=joint_information)
         #answer = self.translator.translate(answer ,src='en' ,dest='vi').text
-        return answer, informations_rerank[:1]
+        return answer, informations_rerank[:3]
